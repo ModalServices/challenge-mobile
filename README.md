@@ -39,3 +39,25 @@ Devem ser usadas boas práticas de programação, assim como padrões de projeto
 - Exibir os dados caso o app esteja offline.
 - Animações em geral.
 - App Universal, se ajustar para diferentes tipos de Devices.
+
+### Sugestões ###
+As sugestões de bibliotecas fornecidas são só um guideline, sintam-se a vontade para usar diferentes e nos surpreenderem. 
+O importante de fato é que os objetivos macros sejam atingidos.
+
+### Processo de submissão ###
+O candidato deverá implementar a solução e enviar um pull request para este repositório com a solução.
+O processo de Pull Request funciona da seguinte maneira:
+1. Candidato fará um fork desse repositório (não irá clonar direto!)
+
+2. Fará seu projeto nesse fork.
+
+3. Commitará e subirá as alterações para o SEU fork.
+
+4. Pela interface do GitHub, irá enviar um Pull Request.
+
+Se possível deixar o fork público para facilitar a inspeção do código.
+
+**ATENÇÃO**
+Não se deve tentar fazer o PUSH diretamente para ESTE repositório!
+
+Se você já entrou em contato com alguém da LiveOnSolutions sobre a vaga, além de fazer o Pull Request avise também essa pessoa por email, incluindo no email o seu usuário no GitHub.

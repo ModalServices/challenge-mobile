@@ -1,11 +1,10 @@
 # Desafio Live On Solutions Android Nativo (Java)
 
-O desafio consiste em desenvolver um aplicativo nativo Android, utilizando a linguagem Java. É uma simulação de um App para verificar suas assinaturas de carros alugados.
+O desafio consiste em desenvolver um aplicativo nativo Android, utilizando a linguagem Java. É uma simulação de um App para verificar suas assinaturas de veículos alugados.
 
-Para consumir o serviço da API Rest.
+Ao fazer o `Login` o usuário será redirecionado para a tela de Perfil, lá ele terá acesso as suas informações e o `Status de Acompanhamento` do(s) veículo(s). Terá os botões de `Minhas Assinaturas` e `Sair`. Clicando no botão sair, perguntar se ele realmente deseja sair. Caso clique em `Minhas Assinaturas` redirecionar para a tela onde listará todas as assinaturas do mesmo. E por fim, no final do Flow, escolhendo o veículo, uma tela de Detalhes será chamada, essa tela contém todas as informações do veículo alugado. Tais como Imagens, Modelo, Ano, Marca.. entre outras informações.
 
-
-**Como usar:**
+**Para consumir o serviço da API Rest:**
 
 > - **URL** https://www.liveonbank.com.br/
 > - **Método**: `POST` Login - Retornará uma `Token` do padrão `JWT` que será utilizadas para fazer a requisição dos demais métodos.
@@ -25,10 +24,13 @@ Devem ser usadas boas práticas de programação, assim como padrões de projeto
 
 ### A solução deverá usar:
 - Retrofit para comunicação com a API.
+- Versão mínima do SDK: 21
+- Utilizar Java.
 
-### O que será avaliado:
+### O que esperamos
 - Arquitetura escolhida para desenvolvimento do teste.
 - Qualidade do código.
+- App Universal, tela se ajustar para diferentes tipos de Devices.
 - Adoção de boas práticas recomendadas pela comunidade Android.
 - Funcionamento do produto entregue.
 
@@ -44,30 +46,10 @@ Devem ser usadas boas práticas de programação, assim como padrões de projeto
 - Organização do código
 - Uso adequado de controle de versão
 
-## Ganha + pontos se conter
+## Plus
 - Persistência dos dados.
-- Exibir os dados caso o app esteja offline.
+- Dados offiline (cache dos dados).
 - Animações em geral.
-- App Universal, se ajustar para diferentes tipos de Devices.
 
-### Sugestões ###
-As sugestões de bibliotecas fornecidas são só um guideline, sintam-se a vontade para usar diferentes e nos surpreenderem. 
-O importante de fato é que os objetivos macros sejam atingidos.
-
-### Processo de submissão ###
-O candidato deverá implementar a solução e enviar um pull request para este repositório com a solução.
-O processo de Pull Request funciona da seguinte maneira:
-1. Candidato fará um fork desse repositório (não irá clonar direto!)
-
-2. Fará seu projeto nesse fork.
-
-3. Commitará e subirá as alterações para o SEU fork.
-
-4. Pela interface do GitHub, irá enviar um Pull Request.
-
-Se possível deixar o fork público para facilitar a inspeção do código.
-
-**ATENÇÃO**
-Não se deve tentar fazer o PUSH diretamente para ESTE repositório!
-
-Se você já entrou em contato com alguém da LiveOnSolutions sobre a vaga, além de fazer o Pull Request avise também essa pessoa por email, incluindo no email o seu usuário no GitHub.
+### Publicação ###
+Crie um Fork do repositório para realizar o teste, e depois de finalizado envie um Pull Request para nossa equipe interna avaliar.

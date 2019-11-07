@@ -2,7 +2,7 @@
 
 O desafio consiste em desenvolver um aplicativo nativo Android, utilizando a linguagem Java. É uma simulação de um App para verificar suas assinaturas de veículos alugados.
 
-Ao fazer o `Login` o usuário será redirecionado para a tela de Perfil, lá ele terá acesso as suas informações e o `Status de Acompanhamento` do(s) veículo(s). Terá os botões de `Minhas Assinaturas` e `Sair`. Clicando no botão sair, perguntar se ele realmente deseja sair. Caso clique em `Minhas Assinaturas` redirecionar para a tela onde listará todas as assinaturas do mesmo. E por fim, no final do Flow, escolhendo o veículo, uma tela de Detalhes será chamada, essa tela contém todas as informações do veículo alugado. Tais como Imagens, Modelo, Ano, Marca.. entre outras informações.
+Ao fazer o `Login` o usuário será redirecionado para a tela de Perfil, lá ele terá acesso as suas informações e o `Status de Acompanhamento` do(s) veículo(s). Terá os botões de `Minhas Assinaturas` e `Sair`. Caso clique em `Minhas Assinaturas` redirecionar para a tela onde listará todas as assinaturas do mesmo. E por fim, no final do Flow, escolhendo o veículo, uma tela de Detalhes será chamada, essa tela contém todas as informações do veículo alugado. Tais como Imagens, Modelo, Ano, Marca.. entre outras informações.
 
 **Para consumir o serviço da API Rest:**
 
@@ -53,3 +53,6 @@ Devem ser usadas boas práticas de programação, assim como padrões de projeto
 
 ### Publicação ###
 Crie um Fork do repositório para realizar o teste, e depois de finalizado envie um Pull Request para nossa equipe interna avaliar.
+
+<a target='_blank'><img align="right" class='header-img' width=230px height=180px src='https://raw.githubusercontent.com/LiveOnSolutions/challenge-android/master/assets/yoda.png' /></a>
+

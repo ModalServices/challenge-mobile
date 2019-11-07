@@ -10,6 +10,7 @@ Métodos disponíveis.
 - `GET` Subscription Details - Responsável por retornar o detalhe do veículos alugado.
 
 O layout está disponível em https://xd.adobe.com/spec/a6abafc2-8aca-4b77-4859-5b64ec81d7a9-d09a/
+
 Devem ser usadas boas práticas de programação, assim como padrões de projeto e Arquitetura.
 
 ### A solução deverá usar:
@@ -36,4 +37,5 @@ Devem ser usadas boas práticas de programação, assim como padrões de projeto
 ## Ganha + pontos se conter
 - Persistência dos dados.
 - Exibir os dados caso o app esteja offline.
+- Animações em geral.
 - App Universal, se ajustar para diferentes tipos de Devices.

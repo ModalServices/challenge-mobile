@@ -2,12 +2,22 @@
 
 O desafio consiste em desenvolver um aplicativo nativo Android, utilizando a linguagem Java. É uma simulação de um App para verificar suas assinaturas de carros alugados.
 
-Métodos disponíveis.
+Para consumir o serviço da API Rest.
 
-- `POST` Login - Retornará uma `Token` do padrão `JWT` que será utilizadas para fazer a requisição dos demais métodos.
-- `GET` User Info - Retornará a os dados para montar a tela de Perfil juntamente com o status de acompanhamento dos carros alugados.
-- `GET` User Subscriptions - Método responsável por retornar a listagem de veículos alugados.
-- `GET` Subscription Details - Responsável por retornar o detalhe do veículos alugado.
+
+**Como usar:**
+
+> - **URL** https://www.liveonbank.com.br/
+> - **Método**: `POST` Login - Retornará uma `Token` do padrão `JWT` que será utilizadas para fazer a requisição dos demais métodos.
+
+> - **URL** https://www.liveonbank.com.br/
+> - **Método**: `GET` User Info - Retornará a os dados para montar a tela de Perfil juntamente com o status de acompanhamento dos carros alugados.
+
+> - **URL** https://www.liveonbank.com.br/
+> - **Método**: `GET` User Subscriptions - Método responsável por retornar a listagem de veículos alugados.
+
+> - **URL** https://www.liveonbank.com.br/
+> - **Método**: `GET` Subscription Details - Responsável por retornar o detalhe do veículos alugado.
 
 O layout está disponível em https://xd.adobe.com/spec/a6abafc2-8aca-4b77-4859-5b64ec81d7a9-d09a/
 

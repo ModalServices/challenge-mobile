@@ -4,7 +4,7 @@ O desafio consiste em desenvolver um aplicativo nativo Android, utilizando a lin
 
 Métodos disponíveis.
 
-- `POST` Login - Retornará a token que será utilizadas para fazer a requisição dos demais métodos.
+- `POST` Login - Retornará uma ```Token``` do padrão ```JWT``` que será utilizadas para fazer a requisição dos demais métodos.
 - `GET` User Info - Retornará a os dados para montar a tela de Perfil juntamente com o status de acompanhamento dos carros alugados.
 - `GET` User Subscriptions - Método responsável por retornar a listagem de veículos alugados.
 - `GET` Subscription Details - Responsável por retornar o detalhe do veículos alugado.

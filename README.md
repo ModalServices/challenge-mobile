@@ -21,6 +21,18 @@ Devem ser usadas boas práticas de programação, assim como padrões de projeto
 - Adoção de boas práticas recomendadas pela comunidade Android.
 - Funcionamento do produto entregue.
 
+### Entrega de valor
+- Funcionar
+- Cumprir os requisitos
+- Usabilidade
+- Interface
+
+### Boas Práticas
+- Domínio da linguagem de programação
+- Estrutura do código
+- Organização do código
+- Uso adequado de controle de versão
+
 ## Ganha + pontos se conter
 - Persistência dos dados.
 - Exibir os dados caso o app esteja offline.

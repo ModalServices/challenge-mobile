@@ -35,7 +35,10 @@ O desafio consiste em desenvolver um aplicativo nativo Android, utilizando a lin
 
 #### Para fins de teste, os usuários a seguir serão reconhecidos ao passarem pelo método `Auth`. Qualquer outro é barrado ao tentar fazer Login.
 
-> - **email** jessica@gmail.com
+> - **email** jessica@challenge.com
+> - **password**: pass123
+
+> - **email** john@challenge.com
 > - **password**: pass123
 
 

@@ -43,6 +43,7 @@ O desafio consiste em desenvolver um aplicativo nativo Android, utilizando a lin
 
 
 #### O layout está disponível em https://xd.adobe.com/spec/a6abafc2-8aca-4b77-4859-5b64ec81d7a9-d09a/
+#### A Documentação da API, juntamente com o Postman esá disponível em https://documenter.getpostman.com/view/3081743/SW18vaEg?version=latest
 
 
 ### A solução deverá conter:

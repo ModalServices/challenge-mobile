@@ -14,27 +14,32 @@ O desafio consiste em desenvolver um aplicativo nativo Android, utilizando a lin
 
 ### Diretrizes
 
-- `Login` (Manter usuário logado, apenas voltar para tela de Login caso clique no botão `Sair`)
-- `Meu Perfil` (Essa tela, o usuário terá acesso as suas informações e o `Status de Acompanhamento` do(s) veículo(s), a partir do método `GET User Info`).
-- Listagem das Minhas Assinaturas.
-- Detalhes da Minha Assinatura.
+- `Login` (Manter usuário logado, apenas voltar para tela de Login caso clique no botão `Sair`). (`POST` Auth)
+- `Meu Perfil` (Essa tela, o usuário terá acesso as suas informações e o `Status de Acompanhamento` do(s) veículo(s)) (`GET User Profile`).
+- Listagem das Minhas Assinaturas (`GET` Orders).
+- Detalhes da Minha Assinatura (`GET`Order Details).
 
 **Para consumir o serviço da API Rest:**
 
-> - **URL** https://www.liveonbank.com.br/
-> - **Método**: `POST` Login - Retornará uma `Token` do padrão `JWT` que será utilizadas para fazer a requisição dos demais métodos.
+> - **URL** https://challenge-mobile-api.liveonsolutions.com/api/v1/auth
+> - **Método**: `POST` Auth - Retornará uma `Token` do padrão `JWT` que será utilizadas para fazer a requisição dos demais métodos.
 
-> - **URL** https://www.liveonbank.com.br/
-> - **Método**: `GET` User Info - Retornará a os dados para montar a tela de Perfil juntamente com o status de acompanhamento dos carros alugados.
+> - **URL** https://challenge-mobile-api.liveonsolutions.com/api/v1/user/profile?token={{token}}
+> - **Método**: `GET` User Profile - Retornará a os dados para montar a tela de Perfil juntamente com o status de acompanhamento do(s) veículo(s) alugado(s).
 
-> - **URL** https://www.liveonbank.com.br/
-> - **Método**: `GET` User Subscriptions - Método responsável por retornar a listagem de veículos alugados.
+> - **URL** https://challenge-mobile-api.liveonsolutions.com/api/v1/user/profile/orders?token={{token}}
+> - **Método**: `GET` Orders - Método responsável por retornar a listagem de veículo(s) alugado(s).
 
-> - **URL** https://www.liveonbank.com.br/
-> - **Método**: `GET` Subscription Details - Responsável por retornar o detalhe do veículos alugado.
+> - **URL** https://challenge-mobile-api.liveonsolutions.com/api/v1/user/profile/order_details?token={{token}}&order_id=1102
+> - **Método**: `GET` Order Details - Responsável por retornar o detalhe do(s) veículo(s) alugado(s).
+
+#### Para fins de teste, os usuários a seguir serão reconhecidos ao passarem pelo método `Auth`. Qualquer outro é barrado ao tentar fazer Login.
+
+> - **email** jessica@gmail.com
+> - **password**: pass123
 
 
-O layout está disponível em https://xd.adobe.com/spec/a6abafc2-8aca-4b77-4859-5b64ec81d7a9-d09a/
+#### O layout está disponível em https://xd.adobe.com/spec/a6abafc2-8aca-4b77-4859-5b64ec81d7a9-d09a/
 
 
 ### A solução deverá conter:

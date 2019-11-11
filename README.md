@@ -49,7 +49,7 @@ O desafio consiste em desenvolver um aplicativo nativo Android, utilizando a lin
 ### A solução deverá conter:
 - Retrofit para comunicação com a API.
 - Versão mínima do SDK: 21
-- Utilizar Java.
+- Java.
 - Cumprir os requisitos
 - Seguir Mockus
 

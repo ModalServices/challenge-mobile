@@ -8,16 +8,16 @@ O teste prático deverá ser feito por você, no conforto da sua casa.
 
  - Faça um fork deste projeto em sua conta no [Github](https://github.com/join) (crie um repositório privado). 
  - Em seguida, desenvolva o projeto. 
- - Por fim, adicione como membro do repositório um dos usuários (@mtsrovari ou @luoldrigues).
+ - Por fim, adicione como membro do repositório um dos usuários (@mtsrovari e @luoldrigues).
 
 O desafio consiste em desenvolver um aplicativo nativo Android, utilizando a linguagem Java. É uma simulação de um App para verificar suas assinaturas de veículos alugados.
 
 ### Diretrizes
 
-- `Login` (Manter usuário logado, apenas voltar para tela de Login caso clique no botão `Sair`). (`POST` Auth)
-- `Meu Perfil` (Essa tela, o usuário terá acesso as suas informações e o `Status de Acompanhamento` do(s) veículo(s)) (`GET User Profile`).
-- Listagem das Minhas Assinaturas (`GET` Orders).
-- Detalhes da Minha Assinatura (`GET`Order Details).
+- Tela Login: Manter usuário logado, apenas voltar para tela de Login caso clique no botão `Sair`. Método `POST Auth`.
+- Tela Meu Perfil: Essa tela, o usuário terá acesso as suas informações e o `Status de Acompanhamento` do(s) veículo(s). Método `GET User Profile`.
+- Tela Minhas Assinaturas: Listagem das assinaturas do usuário logado. Método `GET Orders`.
+- Tela Detahes da Assinatura: Detalhes da assinatura escolhida na tela anterior. Método `GET Order Details`.
 
 **Para consumir o serviço da API Rest:**
 
@@ -43,17 +43,19 @@ O desafio consiste em desenvolver um aplicativo nativo Android, utilizando a lin
 
 
 #### O layout está disponível em https://xd.adobe.com/spec/a6abafc2-8aca-4b77-4859-5b64ec81d7a9-d09a/
-#### A Documentação da API, juntamente com o Postman esá disponível em https://documenter.getpostman.com/view/3081743/SW18vaEg?version=latest
+#### A Documentação da API, juntamente com o Postman está disponível em https://documenter.getpostman.com/view/3081743/SW18vaEg?version=latest
 
 
 ### A solução deverá conter:
 - Retrofit para comunicação com a API.
-- Versão mínima do SDK: 21
-- Java.
+- Versão mínima do SDK: 21.
+- Desenvolvimento em Java.
 - Cumprir os requisitos.
 - Seguir Mockups.
 
 ### O que será avaliado
+- Fidelidade ao Layout / Mockup
+- Integração com a Api
 - Arquitetura escolhida para desenvolvimento do desafio.
 - Qualidade do código.
 - App Universal, tela se ajustar para diferentes tipos de Devices.

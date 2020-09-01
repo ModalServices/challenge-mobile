@@ -42,7 +42,7 @@ O desafio consiste em desenvolver um aplicativo nativo Android, utilizando a lin
 > - **password**: pass123
 
 
-#### O layout está disponível em https://xd.adobe.com/spec/a6abafc2-8aca-4b77-4859-5b64ec81d7a9-d09a/
+#### O layout está disponível em https://xd.adobe.com/view/c3f7258b-cdf9-481e-4ad3-98b0648f083f-b5c6/
 #### A Documentação da API, juntamente com o Postman está disponível em https://documenter.getpostman.com/view/3081743/SW18vaEg?version=latest
 
 

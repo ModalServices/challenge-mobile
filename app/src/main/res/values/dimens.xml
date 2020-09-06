@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="textTinySize">10sp</dimen>
+    <dimen name="textSmallSize">12sp</dimen>
+    <dimen name="textMediumSize">14sp</dimen>
+    <dimen name="textBigSize">16sp</dimen>
+    <dimen name="textHugeSize">20sp</dimen>
+
+    <dimen name="marginTinySize">2dp</dimen>
+    <dimen name="marginSmallSize">4dp</dimen>
+    <dimen name="marginMediumSize">8dp</dimen>
+    <dimen name="marginBigSize">16dp</dimen>
+    <dimen name="marginHugeSize">32dp</dimen>
+
+</resources>

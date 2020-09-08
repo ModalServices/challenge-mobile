@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="@dimen/marginMediumSize"
+    android:background="@color/translucid"
+    android:columnCount="2"
+    android:orientation="vertical"
+    android:rowCount="6">
+
+    <CheckBox
+        android:id="@+id/cb_status1"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:button="@drawable/cb_selector1"
+        android:clickable="false" />
+
+    <CheckBox
+        android:id="@+id/cb_status2"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:button="@drawable/cb_selector2"
+        android:clickable="false" />
+
+    <CheckBox
+        android:id="@+id/cb_status3"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:button="@drawable/cb_selector2"
+        android:checked="true" />
+
+    <CheckBox
+        android:id="@+id/cb_status4"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:button="@drawable/cb_selector2"
+        android:checked="true" />
+
+    <CheckBox
+        android:id="@+id/cb_status5"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:button="@drawable/cb_selector2"
+        android:checked="true" />
+
+    <CheckBox
+        android:id="@+id/cb_status6"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:button="@drawable/cb_selector3"
+        android:checked="true" />
+
+    <TextView
+        android:id="@+id/tv_status1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/translucid"
+        android:text="Aprovação Pendente"
+        android:textSize="@dimen/textMediumSize" />
+
+    <TextView
+        android:id="@+id/tv_status2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/translucid"
+        android:text="Aprovação Pendente"
+        android:textSize="@dimen/textMediumSize" />
+
+    <TextView
+        android:id="@+id/tv_status3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/translucid"
+        android:text="Aprovação Pendente"
+        android:textSize="@dimen/textMediumSize" />
+
+    <TextView
+        android:id="@+id/tv_status4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/translucid"
+        android:text="Aprovação Pendente"
+        android:textSize="@dimen/textMediumSize" />
+
+    <TextView
+        android:id="@+id/tv_status5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/translucid"
+        android:text="Aprovação Pendente"
+        android:textSize="@dimen/textMediumSize" />
+
+    <TextView
+        android:id="@+id/tv_status6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/translucid"
+        android:text="Aprovação Pendente"
+        android:textSize="@dimen/textMediumSize" />
+
+
+
+</GridLayout>

@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here.-->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="android:background">@color/colorBackground</item>
+        <item name="android:statusBarColor">@color/colorDark</item>
+        <item name="android:textColor">@color/colorDark</item>
+    </style>
+
+    <style name="LoginTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here.-->
+        <item name="colorPrimary">@color/colorLight</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="android:background">@color/translucid</item>
+        <item name="android:statusBarColor">@color/colorLight</item>
+        <item name="android:textColor">@color/colorLight</item>
+    </style>
+
+</resources>

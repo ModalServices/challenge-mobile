@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LiveOn</string>
+    <string name="ed_loginEmail">EMAIL</string>
+    <string name="ed_loginSenha">SENHA</string>
+    <string name="bt_Login">FAZER LOGIN</string>
+    <string name="tv_login_passwordError">Erro na senha</string>
+    <string name="tv_login_emailError">Erro no email</string>
+    <string name="userProfileToolbar">Meu Perfil</string>
+    <string name="tv_userProfile_statusDeAcompanhamento">Status de Acompanhamento</string>
+    <string name="assinaturas">Minhas Assinaturas</string>
+</resources>

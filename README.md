@@ -51,7 +51,7 @@ O desafio consiste em desenvolver um aplicativo nativo Android ou iOS, utilizand
 
 ### O que será avaliado
 
-- Fidelidade ao Mockup (Tamanho de fonte, espaçamento, core, etc)
+- Fidelidade ao Mockup (Tamanho de fonte, espaçamento, cor, etc)
 - Integração com a Api
 - Arquitetura escolhida para desenvolvimento do desafio.
 - Qualidade do código limpo e legível.

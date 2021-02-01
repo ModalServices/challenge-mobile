@@ -47,7 +47,7 @@ O desafio consiste em desenvolver um aplicativo nativo Android ou iOS, utilizand
 > - **email** john@challenge.com
 > - **password**: pass123
 
-#### O layout está disponível em https://xd.adobe.com/view/c3f7258b-cdf9-481e-4ad3-98b0648f083f-b5c6/
+#### O layout está disponível em https://xd.adobe.com/view/162dd9cb-cb26-4c44-8ead-d1cbf8ca4204-437e/
 
 ### O que será avaliado
 

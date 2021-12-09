@@ -74,11 +74,17 @@ O desafio consiste em desenvolver um aplicativo nativo Android ou iOS, utilizand
 - Dados offiline (cache dos dados).
 - Animações em geral.
 
-### Publicação
+
+### Como entrega do seu desafio.
+
+- Faça um fork deste projeto em sua conta no [Github](https://github.com/join) (crie um repositório privado). 
+- Em seguida, desenvolva o projeto. 
+- Adicione como membro do repositório o seguinte usuário do GitHub [@vagas-liveonsolutions](https://github.com/vagas-liveonsolutions);
+- Por fim, envie um email informando que concluiu o desafio p/ [vagas@liveonsolutions.com](mailto:vagas@liveonsolutions.com). (coloque no assunto o nome do desafio)
 
 Seu projeto será avaliado de acordo com a qualidade do seu código e sua organização com os arquivos utilizados, além do conhecimento e bom uso da linguagem Java ou Swift.
 
-Dê-nos acesso ao seu repositório, quando fizer isto, avise-nos por e-mail vagas@liveonbaas.com ou através do recrutador, avaliaremos o mais rápido possível e te daremos o feedback.
+Dê-nos acesso ao seu repositório, quando fizer isto, avise-nos por e-mail vagas@liveonsolutions.com ou através do recrutador, avaliaremos o mais rápido possível e te daremos o feedback.
 
 _Boa sorte!_
 

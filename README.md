@@ -10,7 +10,7 @@ Se for aplicar para vagas Android, faça em Java, ou se for aplicar para vagas i
 
 - Faça um fork deste projeto em sua conta no [Github](https://github.com/join) (crie um repositório privado).
 - Em seguida, desenvolva o projeto.
-- Adicione como membro do repositório os usuários p/ revisão (@luoldrigues).
+- Adicione como membro do repositório os usuários p/ revisão (@vagas-modalservices).
 - Por fim, avise que voce finalizou o desafio.
 
 O desafio consiste em desenvolver um aplicativo nativo Android ou iOS, utilizando a linguagem Java ou Swift respectivamente.
@@ -79,7 +79,7 @@ O desafio consiste em desenvolver um aplicativo nativo Android ou iOS, utilizand
 
 - Faça um fork deste projeto em sua conta no [Github](https://github.com/join) (crie um repositório privado). 
 - Em seguida, desenvolva o projeto. 
-- Adicione como membro do repositório o seguinte usuário do GitHub [@vagas-liveonsolutions](https://github.com/vagas-liveonsolutions);
+- Adicione como membro do repositório o seguinte usuário do GitHub [@vagas-modalservices](https://github.com/vagas-modalservices);
 - Por fim, envie um email informando que concluiu o desafio p/ [vagas@liveonsolutions.com](mailto:vagas@liveonsolutions.com). (coloque no assunto o nome do desafio)
 
 Seu projeto será avaliado de acordo com a qualidade do seu código e sua organização com os arquivos utilizados, além do conhecimento e bom uso da linguagem Java ou Swift.

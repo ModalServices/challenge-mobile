@@ -1,4 +1,4 @@
-# Desafio Live On Solutions Mobile
+# Desafio Modal as a Service Mobile
 
 Como parte do processo seletivo, usaremos este desafio para avaliar suas habilidades com os requisitos da vaga.
 

@@ -6,16 +6,6 @@ O teste prático deverá ser feito por você, no conforto da sua casa.
 
 Se for aplicar para vagas Android, faça em Java, ou se for aplicar para vagas iOS, faça em Swift.
 
-## Como entregar o desafio?
-
-- Faça um fork deste projeto em sua conta no [Github](https://github.com/join) (crie um repositório privado).
-- Em seguida, desenvolva o projeto.
-- Adicione como membro do repositório os usuários p/ revisão (@vagas-modalservices).
-- Por fim, avise que voce finalizou o desafio.
-
-O desafio consiste em desenvolver um aplicativo nativo Android ou iOS, utilizando a linguagem Java ou Swift respectivamente.
-É uma simulação de um App para verificar suas assinaturas de veículos alugados.
-
 ### Diretrizes
 
 - Tela Login: Manter usuário logado, apenas voltar para tela de Login caso clique no botão `Sair`. Método `POST Auth`.

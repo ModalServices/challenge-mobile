@@ -17,16 +17,16 @@ Se for aplicar para vagas Android, faça em Java, ou se for aplicar para vagas i
 
 **Para consumir o serviço da API Rest:**
 
-> - **URL** https://challenge-mobile-api.liveonsolutions.com/api/v1/auth
+> - **URL** https://challenge-mobile-api.modl.pro/api/v1/auth
 > - **Método**: `POST` Auth - Retornará uma `Token` do padrão `JWT` que será utilizadas para fazer a requisição dos demais métodos.
 
-> - **URL** https://challenge-mobile-api.liveonsolutions.com/api/v1/user/profile?token={{token}}
+> - **URL** https://challenge-mobile-api.modl.pro/api/v1/user/profile?token={{token}}
 > - **Método**: `GET` User Profile - Retornará a os dados para montar a tela de Perfil juntamente com o status de acompanhamento do(s) veículo(s) alugado(s).
 
-> - **URL** https://challenge-mobile-api.liveonsolutions.com/api/v1/user/profile/orders?token={{token}}
+> - **URL** https://challenge-mobile-api.modl.pro/api/v1/user/profile/orders?token={{token}}
 > - **Método**: `GET` Orders - Método responsável por retornar a listagem de veículo(s) alugado(s).
 
-> - **URL** https://challenge-mobile-api.liveonsolutions.com/api/v1/user/profile/order_details?token={{token}}&order_id=1102
+> - **URL** https://challenge-mobile-api.modl.pro/api/v1/user/profile/order_details?token={{token}}&order_id=1102
 > - **Método**: `GET` Order Details - Responsável por retornar o detalhe do(s) veículo(s) alugado(s).
 
 #### Para fins de teste, os usuários a seguir serão reconhecidos ao passarem pelo método `Auth`. Qualquer outro é barrado ao tentar fazer Login.
